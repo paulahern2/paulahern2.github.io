@@ -1,0 +1,23 @@
+h1 {
+  color: #9900ff;
+}
+h2 {
+  color: #9900ff;
+}
+
+p {
+  color: #9900ff;
+  font-size: 24px;
+  font-style: italic;
+  border: 24px dotted #9900ff;
+  border-top: 24px dotted #9900ff;
+  line-height: 30px;
+}
+
+#first {
+  border-color: goldenrod;
+}
+
+.highlight {
+  background-color: #66ff00;
+}
