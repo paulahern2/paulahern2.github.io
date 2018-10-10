@@ -1,0 +1,32 @@
+ul {
+  font-size: 24px;
+}
+
+html {
+  font-family: arial;
+}
+
+html {
+  color: white;
+}
+
+#right-column {
+  background-color: #ff4136;
+  width: 40%;
+  float: right;
+  position: relative;
+  padding: 5%;
+}
+
+#left-column {
+  width: 40%;
+  background-color: #001f3f;
+  float: left;
+  position: relative;
+  padding: 5%;
+}
+
+#jake {
+  position: relative;
+  float: right;
+}
