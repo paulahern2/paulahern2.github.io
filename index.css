@@ -1,12 +1,31 @@
-.highlight {
+ul {
+  font-size: 24px;
+}
+
+html {
+  background-color: #ffff00
+}
+html {
+  font-family: arial;
+}
+
+#main {
+  background-color: #669966;
+  width: 50%;
+  float: left;
+  position: relative;
+  padding: 5%;
+}
+
+#links {
+  width: 50%;
   background-color: #ffff00;
+  float: right;
+  position: relative;
+  padding: 5%;
 }
-h1 {
-  color: #669966;
-}
-h2 {
-  color: #669966;
-}
-p {
-  color: #669966;
+
+#jake {
+  position: relative;
+  float: right;
 }
