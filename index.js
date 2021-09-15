@@ -26,10 +26,11 @@ function drawShape(ctx, point_count, radius) {
         'y': radius + radius * Math.sin(angle)
       });
     }
+    ctx.strokeStyle = "(yellow)";
     ctx.clearRect(0, 0, canv.width, canv.height);
     ctx.beginPath();
     ctx.lineWidth = 1;
-    for(var i = 0; i < points.length; j++) {
+    for(var i = 0; i < points.length; i++) {
         for(var j = 0; j < points.length; j++) {
             ctx.moveTo(points[i].x, points[i].y);
             ctx.lineTo(points[j].x, points[j].y);
