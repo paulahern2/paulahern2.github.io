@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Magic 8 Ball: project demo</title>
+    <link href="./style.css"
+    rel= "stylesheet"></link>
+    <!-- Link to JavaScript -->
+    <script src=scripts.js defer></script>
+    <!-- Including "defer" ensures that the script will not run until the HTML page is fully loaded and rendered. -->
+</head>
+<body>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap" rel="stylesheet">
+   
+    <div id = menu>
+    <h1>Magic 8 Ball demo</h1>
+    <h2 id="display">Replace with response</h2>
+    <p>Click button on left for new response</p>
+    </div>
+
+    <div id = pressme>
+        <button onClick="window.location.reload();">Click for new response</button>
+    </div>
+
+  
+    <a href="../index.html">Back to homepage</a>
+    
+
+    <div id = null>
+        Points: <input type='none' min='3' max='70' id='points' value='13' /><br/>
+      </div>
+        <canvas id='canvas' width='2000%' height="2000%" /> 
+       
+        <script src = "index.js"></script>
+</body>
+</html>
