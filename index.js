@@ -13,9 +13,6 @@ draw();
 document.getElementById('points').oninput = draw;
 }
 
-$("#points").pointColor= createjs.Graphics.getRGB(0, 0, 255, 0)
-// using http://robotwebtools.org/jsdoc/ros2djs/current/models_PolygonShape.js.html to try to figure out;
-
 var canv = document.getElementById('canvas');
 var contx = canv.getContext('2d');
 
