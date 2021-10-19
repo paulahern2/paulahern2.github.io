@@ -4,8 +4,7 @@ canvas {
   margin-left: auto;
   margin-right: auto;
   display: block;
-  width: 800px;
-  margin-top: 25px;
+  width: calc( 24 * ( 1vh + 1vw ) );
 }
 
 body {
@@ -40,7 +39,7 @@ a:active {
   text-decoration: underline;
 }
 
-a:active, a:hover, a:visited, a:link {
+#magic8 {
   margin: 70px 50px;
   text-align: right;
   text-decoration: none;
@@ -48,6 +47,18 @@ a:active, a:hover, a:visited, a:link {
   position:absolute;
   bottom:0;
   right:0;
-  font-size: 60px;
+  font-size: 2.25vw;
+  font-family: 'Press Start 2P';
+}
+
+#printer {
+  margin: 70px 50px;
+  text-align: left;
+  text-decoration: none;
+  display: inline-block;
+  position:absolute;
+  bottom:0;
+  left:0;
+  font-size: 2.25vw;
   font-family: 'Press Start 2P';
 }
