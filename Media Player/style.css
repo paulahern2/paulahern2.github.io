@@ -1,0 +1,152 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+
+body {
+  background-color: #240349;
+  color: #d28aec;
+  font-size: 22px;
+  line-height: 30px;
+  width: calc(100vw - 52px);
+  margin: 26px;
+  text-decoration: none;
+}
+
+#playPause {
+  background-color: transparent;
+  height: 250px;
+  width: 250px;
+  max-height: calc(100vw - 52px);
+  max-width: calc(100vw - 52px);
+  margin-bottom: 26px;
+  cursor: pointer;
+  position: absolute;
+  margin-left: 150px;
+
+  border-style: solid;
+  border-width: 125px 0px 125px 250px;
+  border-color: transparent transparent transparent #6EA8B4;
+  box-sizing: border-box;
+}
+
+#playPause:hover {
+  background-color: transparent;
+  border-style: solid;
+  border-width: 125px 0px 125px 250px;
+  border-color: transparent transparent transparent #C9E8EE;
+  box-sizing: border-box;
+}
+
+video {
+  margin: 50px auto;
+  max-width: calc(100vw - 52px);
+  height: 800px;
+  display: block;
+}
+
+figcaption a:link, figcaption a:visited {
+  color: inherit;
+  text-decoration: none;
+  border: 1px solid #d28aec;
+  padding: 3px 10px 0px 10px;
+  margin-right: 6px;
+  margin-bottom: 6px;
+  display: inline;
+  margin-left: 95px;
+  font-family: 'Press Start 2P';
+}
+
+figcaption a:hover {
+  color: #7995C3;
+  border: 1px solid #7995C3;
+  font-family: 'Press Start 2P';
+}
+
+#prev {
+  height: 200px;
+  width: 200px;
+  max-height: calc(100vw - 52px);
+  max-width: calc(100vw - 52px);
+  margin-top: 26px;
+  margin-left: 26px;
+  cursor: pointer;
+  bottom: 0;
+  right: 250px;
+  position: absolute;
+  border-style: solid;
+  border-width: 100px 200px 100px 0px;
+  border-color: transparent #EEBFFF transparent transparent;
+  box-sizing: border-box;
+}
+
+#next {
+  height: 200px;
+  width: 200px;
+  max-height: calc(100vw - 52px);
+  max-width: calc(100vw - 52px);
+  margin-top: 26px;
+  margin-left: 26px;
+  cursor: pointer;
+  bottom: 0;
+  right: 0;
+  position: absolute;
+  border-style: solid;
+  border-width: 100px 0px 100px 200px;
+  border-color: transparent transparent transparent #D54BFF;
+  box-sizing: border-box;
+}
+
+#prev:hover, #next:hover {
+  background-color: transparent;
+}
+
+#prev {
+  background-color: transparent;
+}
+
+#next {
+  background-color: transparent;
+}
+
+#musiclink {
+  color: inherit;
+  text-decoration: none;
+  display: center;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  font-family: 'Press Start 2P';
+  margin-bottom: 100px;
+}
+
+#musiclink a:link {
+  text-decoration: none;
+}
+
+#gohome {
+  color: inherit;
+  text-decoration: none;
+  position: absolute;
+  top: 0;
+  left: 0;
+  font-family: 'Press Start 2P';
+  padding: 15px;
+  font-size: 10px;
+}
+
+#gohome a:link {
+  text-decoration: none;
+}
+
+#gohome a:visited {
+  text-decoration: none;
+  color: #d28aec;
+}
+
+#musicbox {
+  position: absolute;
+  top: 0;
+  right: 0;
+  padding: 15px;
+}
