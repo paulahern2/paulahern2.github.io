@@ -1,0 +1,88 @@
+canvas {
+  padding-left: 0;
+  padding-right: 0;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+  width: calc( 24 * ( 1vh + 1vw ) );
+}
+
+body {
+  background-color: #fbca03;
+}
+
+#null {
+  opacity: 0;
+}
+
+a:link {
+  color: #4b0908;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:visited {
+  color: #aa0505;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #b97d10;
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+a:active {
+  color: #4b0908;
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+#magic8 {
+  margin: 70px 50px;
+  text-align: right;
+  text-decoration: none;
+  display: inline-block;
+  position:absolute;
+  bottom:0;
+  right:0;
+  font-size: 2.25vw;
+  font-family: 'Press Start 2P';
+}
+
+#printer {
+  margin: 70px 50px;
+  text-align: left;
+  text-decoration: none;
+  display: inline-block;
+  position:absolute;
+  bottom:0;
+  left:0;
+  font-size: 2.25vw;
+  font-family: 'Press Start 2P';
+}
+
+#clock {
+  margin: 70px 50px;
+  text-align: left;
+  text-decoration: none;
+  display: inline-block;
+  position:absolute;
+  top:0;
+  left:0;
+  font-size: 2.25vw;
+  font-family: 'Press Start 2P';
+}
+
+#mediaplayer {
+  margin: 70px 50px;
+  text-align: left;
+  text-decoration: none;
+  display: inline-block;
+  position:absolute;
+  top:0;
+  right:0;
+  font-size: 2.25vw;
+  font-family: 'Press Start 2P';
+}
