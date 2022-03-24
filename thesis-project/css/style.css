@@ -16,25 +16,25 @@ body {
 }
 
 a:link {
-  color: #FFFFFF;
+  color: black;
   background-color: transparent;
   text-decoration: none;
 }
 
 a:visited {
-  color: #FF883E;
+  color: black;
   background-color: transparent;
   text-decoration: none;
 }
 
 a:hover {
-  color: #c09300;
+  color: #ffffff;
   background-color: transparent;
   text-decoration: underline;
 }
 
 a:active {
-  color: #FFFFFF;
+  color: #c09300;
   background-color: transparent;
   text-decoration: underline;
 }
@@ -49,6 +49,10 @@ a:active {
   right:0;
   font-size: 2.25vw;
   font-family: 'Press Start 2P';
+}
+
+div p:nth-child(1){
+  font-size: 1vw;
 }
 
 #printer {

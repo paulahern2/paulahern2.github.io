@@ -16,25 +16,25 @@ body {
 }
 
 a:link {
-  color: #FFFFFF;
+  color: black;
   background-color: transparent;
   text-decoration: none;
 }
 
 a:visited {
-  color: #FF883E;
+  color: black;
   background-color: transparent;
   text-decoration: none;
 }
 
 a:hover {
-  color: #c09300;
+  color: #FFFFFF;
   background-color: transparent;
   text-decoration: underline;
 }
 
 a:active {
-  color: #FFFFFF;
+  color: #FF883E;
   background-color: transparent;
   text-decoration: underline;
 }
@@ -47,7 +47,7 @@ a:active {
   position:absolute;
   bottom:0;
   right:0;
-  font-size: 2.25vw;
+  font-size: 2vw;
   font-family: 'Press Start 2P';
 }
 
@@ -59,7 +59,7 @@ a:active {
   position:absolute;
   bottom:0;
   left:0;
-  font-size: 2.25vw;
+  font-size: 2vw;
   font-family: 'Press Start 2P';
 }
 
