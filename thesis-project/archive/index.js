@@ -2,175 +2,826 @@ let database =
 {
     "tagList": [
         {
-            "tag": "Archaeology",
+            "tag": "Arts",
             "files": [
-                65
-            ]
-        },
-        {
-            "tag": "Architecture",
-            "files": [
-                23,
-                29,
-                41,
-                96
+                
             ],
             "children": [
                 {
-                    "tag": "Architecture & Environment",
+                    "tag": "Ancient Art",
                     "files": [
-                        82
+                        3,
                     ],
                     "children": null
                 },
                 {
-                    "tag": "Criticism",
+                    "tag": "Music",
                     "files": [
-                        21
+                        4
+                    ],
+                    "children": null
+                },
+            ]
+        },
+        {
+            "tag": "Culture",
+            "files": [
+                
+            ],
+            "children": [
+                {
+                    "tag": "Culture Parks",
+                    "files": [
+                        13,
+                        14
                     ],
                     "children": null
                 },
                 {
-                    "tag": "Modern",
+                    "tag": "Cultural Events",
                     "files": [
-                        22
+                        15
                     ],
                     "children": null
                 },
                 {
-                    "tag": "Theory",
+                    "tag": "Cuisine",
                     "files": [
-                        0,
-                        107
+                        16,
+                        17,
+                        18
+                    ],
+                    "children": null
+                },
+                {
+                    "tag": "Diaspora",
+                    "files": [
+                        
+                    ],
+                    "children": null
+                },
+                {
+                    "tag": "Festivals",
+                    "files": [
+                        
+                    ],
+                    "children": null
+                },
+                {
+                    "tag": "Religion",
+                    "files": [
+                        
+                    ],
+                    "children": null
+                },
+                {
+                    "tag": "Lifestyle",
+                    "files": [
+                        8
                     ],
                     "children": null
                 }
             ]
         },
         {
-            "tag": "Technology",
+            "tag": "History",
             "files": [
-                27,
-                42,
-                54,
-                63,
-                71,
-                74,
-                75,
-                76,
-                78,
-                83,
-                86,
-                94,
-                106
+                
             ],
             "children": [
                 {
-                    "tag": "Digital Culture",
+                    "tag": "Ancient History",
                     "files": [
-                        26,
-                        99,
-                        103,
-                        85
+                        
                     ],
                     "children": null
                 },
                 {
-                    "tag": "Virtual Reality",
+                    "tag": "Archaeology",
                     "files": [
-                        5,
-                        37,
-                        90,
-                        93,
-                        101,
-                        108,
-                        109
+                        3
                     ],
                     "children": null
-                }
+                },
+                {
+                    "tag": "Celtic History (Roman era)",
+                    "files": [
+                        
+                    ],
+                    "children": null
+                },
+                {
+                    "tag": "Celtic History (medieval era)",
+                    "files": [
+                        
+                    ],
+                    "children": null
+                },
+                {
+                    "tag": "Celtic Revival",
+                    "files": [
+                        
+                    ],
+                    "children": null
+                },
+                {
+                    "tag": "History of Diaspora",
+                    "files": [
+                        
+                    ],
+                    "children": null
+                },
+                {
+                    "tag": "English Colonization",
+                    "files": [
+                        
+                    ],
+                    "children": null
+                },
+                {
+                    "tag": "Famine/Genocide Under English Occupation",
+                    "files": [
+                        
+                    ],
+                    "children": null
+                },
+                {
+                    "tag": "History of the Irish Republic",
+                    "files": [
+                        
+                    ],
+                    "children": null
+                },
+                {
+                    "tag": "Northern Ireland",
+                    "files": [
+                        
+                    ],
+                    "children": null
+                },
+                {
+                    "tag": "Religious History",
+                    "files": [
+                        
+                    ],
+                    "children": null
+                },
+                {
+                    "tag": "The Troubles",
+                    "files": [
+                        
+                    ],
+                    "children": null
+                },
             ]
         },
         {
-            "tag": "Theory",
+            "tag": "Language",
             "files": [
-                61,
-                92
+                0
+            ],
+            "children": [
+                {
+                    "tag": "Celtic Languages",
+                    "files": [
+                        
+                    ],
+                    "children": null
+                },
+                {
+                    "tag": "English Language in Ireland",
+                    "files": [
+                        
+                    ],
+                    "children": null
+                },
+                {
+                    "tag": "Gaeltachts",
+                    "files": [
+                        
+                    ],
+                    "children": null
+                },
+                {
+                    "tag": "Gaelic Language",
+                    "files": [
+                        
+                    ],
+                    "children": null
+                },
+                {
+                    "tag": "Language History",
+                    "files": [
+                        
+                    ],
+                    "children": null
+                },
+            ]
+        },
+        {
+            "tag": "Nature",
+            "files": [
+                1
+            ],
+            "children": [
+                {
+                    "tag": "Climate Change",
+                    "files": [
+                        
+                    ],
+                    "children": null
+                },
+                {
+                    "tag": "Flora",
+                    "files": [
+                        
+                    ],
+                    "children": null
+                },
+                {
+                    "tag": "Fauna",
+                    "files": [
+                        
+                    ],
+                    "children": null
+                },
+                {
+                    "tag": "Geography",
+                    "files": [
+                        
+                    ],
+                    "children": null
+                },
+            ]
+        },
+        {
+            "tag": "Politics",
+            "files": [
+                
+            ],
+            "children": [
+                {
+                    "tag": "Decolonial Politics",
+                    "files": [
+                        
+                    ],
+                    "children": null
+                },
+                {
+                    "tag": "Immigration and Citizenship Laws",
+                    "files": [
+                        
+                    ],
+                    "children": null
+                },
+                {
+                    "tag": "International Politics",
+                    "files": [
+                        
+                    ],
+                    "children": [
+                        {
+                            "tag": "Russian Naval Drill in Irish EEZ 2022",
+                            "files": [
+                                5,
+                                6,
+                                7
+                            ],
+                            "children": null
+                        }                
+                    ]
+                },
+                {
+                    "tag": "Laws",
+                    "files": [
+                        
+                    ],
+                    "children": null
+                },
+                {
+                    "tag": "Military",
+                    "files": [
+                        
+                    ],
+                    "children": null
+                },
+                {
+                    "tag": "Political System",
+                    "files": [
+                        
+                    ],
+                    "children": null
+                },
+                {
+                    "tag": "Partisan Politics",
+                    "files": [
+                        
+                    ],
+                    "children": null
+                },
+            ]
+        },
+        {
+            "tag": "Society",
+            "files": [
+                
+            ],
+            "children": [
+                {
+                    "tag": "Education",
+                    "files": [
+                        
+                    ],
+                    "children": null
+                },
+                {
+                    "tag": "Public Opinion",
+                    "files": [
+                        
+                    ],
+                    "children": null
+                },
+                {
+                    "tag": "Trends",
+                    "files": [
+                        
+                    ],
+                    "children": null
+                },
+                {
+                    "tag": "Stories",
+                    "files": [
+                        8
+                    ],
+                    "children": null
+                },
+            ]
+        },
+        {
+            "tag": "Solidarity",
+            "files": [
+                12
+            ],
+            "children": [
+                {
+                    "tag": "Indigenous Rights",
+                    "files": [
+                        10,
+                        11
+                    ],
+                    "children": null
+                },
+                {
+                    "tag": "Language Preservation",
+                    "files": [
+                        9
+                    ],
+                    "children": null
+                },
+                {
+                    "tag": "Cultural Preservation",
+                    "files": [                        
+                        
+                    ],
+                    "children": null
+                },
+                {
+                    "tag": "Land Back",
+                    "files": [
+                        8
+                    ],
+                    "children": null
+                },
+            ]
+        },
+        {
+            "tag": "My Reflections - by Paul Ahern II",
+            "files": [
+                
             ],
             "children": null
-        }
+        },
     ],
     "fileList": [
         {
             "id": 0,
-            "title": "Is there an Object-Oriented Architecture?",
+            "title": "Language death",
             "by": [
                 {
-                    "name": "Graham Harman",
+                    "name": "David Crystal",
                     "type": "Author"
                 }
             ],
             "year": null,
-            "src": "pdf/(Architecture Exchange_ Engagements with Contemporary Theory and Philosophy) Joseph Bedford - Is There an Object-Oriented Architecture_ _ Engaging Graham Harman-Bloomsbury Academic (2020).pdf"
+            "src": "pdf/languagedeath - david crystal.pdf"
         },
         {
             "id": 1,
-            "title": "Making Design Theory",
+            "title": "Roscommon bog restoration hailed as 'superstar' projects",
             "by": [
                 {
-                    "name": "Johan Redström",
+                    "name": "RTÉ News",
                     "type": "Author"
                 }
             ],
             "year": null,
-            "src": "pdf/(Design Thinking, Design Theory) Johan Redström - Making Design Theory-MIT Press (2017).pdf"
+            "src": "https://www.youtube.com/embed/ka3wwAM3B0I"
         },
         {
             "id": 2,
-            "title": "Stop Stealing Sheep & find out how type works",
+            "title": "Sittin",
             "by": [
                 {
-                    "name": "Erik Spiekerman",
+                    "name": "the dock of the bay",
                     "type": "Author"
                 }
             ],
             "year": null,
-            "src": "pdf/(Graphic Design & Visual Communication Courses) Erik Spiekermann - Stop Stealing Sheep & Find Out How Type Works-Adobe Press (2013).pdf"
+            "src": "https://www.youtube.com/embed/JVIhDv6S3MU"
         },
         {
             "id": 3,
-            "title": "Introducing Asian Feminist Theology",
+            "title": "The establishment of Tuam as an archdiocesan capital in the twelfth century",
             "by": [
                 {
-                    "name": "Kwok Pui-lan",
+                    "name": "Dr. Griffin Murray",
                     "type": "Author"
                 }
             ],
             "year": null,
-            "src": "pdf/(Introductions in feminist theology 4.) Kwok, Pui-lan - Introducing Asian feminist theology-Sheffield Academic Press (2000).pdf"
+            "src": "pdf/tuam_Archdiocese.pdf"
         },
         {
-            "id": 114,
-            "title": "Designing Books: practice and theory",
+            "id": 4,
+            "title": "Sello - As Gaeilge (Music Video) | Pressplay",
             "by": [
                 {
-                    "name": "Jost Hochuli",
+                    "name": "Sello",
                     "type": "Author"
                 }
             ],
             "year": null,
-            "src": "pdf/hochuli - designing books.pdf"
+            "src": "https://www.youtube.com/embed/JVIhDv6S3MU"
         },
         {
-            "id": 115,
-            "title": "Signs, Symbols & Ornaments",
+            "id": 5,
+            "title": "Irish Fishermen Plan To Disrupt Russian Naval War Games: 'Our Presence Is Our Protest'",
             "by": [
                 {
-                    "name": "Rene Smeets",
+                    "name": "Rachel Maddow on MSNBC",
                     "type": "Author"
                 }
             ],
             "year": null,
-            "src": "pdf/signs, symbols & ornaments - rene smeets.pdf"
+            "src": "https://www.youtube.com/embed/GBUKJ2V3W0E"
+        },
+        {
+            "id": 6,
+            "title": "For Irish Fishermen, Confrontation With Russia Is A Matter Of Protecting Their Livelihood",
+            "by": [
+                {
+                    "name": "The Rachel Maddow Show on MSNBC",
+                    "type": "Author"
+                }
+            ],
+            "year": null,
+            "src": "https://www.youtube.com/embed/kFewq_Sb-D0"
+        },
+        {
+            "id": 7,
+            "title": "Fishermen meet Russian ambassador over naval exercises",
+            "by": [
+                {
+                    "name": "RTÉ News",
+                    "type": "Author"
+                }
+            ],
+            "year": null,
+            "src": "https://www.youtube.com/embed/_EWWHMCDzEQ"
+        },
+        {
+            "id": 8,
+            "title": "Hero's welcome for 81-year-old after national tour",
+            "by": [
+                {
+                    "name": "RTÉ News",
+                    "type": "Author"
+                }
+            ],
+            "year": null,
+            "src": "https://www.youtube.com/embed/GHpP1HzAPDU"
+        },
+        {
+            "id": 9,
+            "title": "Languages classes in Nunavut giving people a better sense of who they are",
+            "by": [
+                {
+                    "name": "APTN News",
+                    "type": "Author"
+                }
+            ],
+            "year": null,
+            "src": "https://www.youtube.com/embed/rAzGBaBrS9s"
+        },
+        {
+            "id": 10,
+            "title": "Thousands march in Vancouver for the missing and murdered",
+            "by": [
+                {
+                    "name": "APTN News",
+                    "type": "Author"
+                }
+            ],
+            "year": null,
+            "src": "https://www.youtube.com/embed/9rwkGStFsSo"
+        },
+        {
+            "id": 11,
+            "title": "3 Elders die in Unamen Shipu following COVID-19 outbreak",
+            "by": [
+                {
+                    "name": "APTN News",
+                    "type": "Author"
+                }
+            ],
+            "year": null,
+            "src": "https://www.youtube.com/embed/IxVTqum2a8M"
+        },
+        {
+            "id": 12,
+            "title": "Potawatomi History | Tribal Histories",
+            "by": [
+                {
+                    "name": "PBS Wisconsin",
+                    "type": "Author"
+                }
+            ],
+            "year": null,
+            "src": "https://www.youtube.com/embed/ngttqI4yzJ0"
+        },
+        {
+            "id": 13,
+            "title": "Review of Elizabeth Healy's Craggaunowen and the Hunt Museum. A Recreation of Celtic Ireland",
+            "by": [
+                {
+                    "name": "Paul Gosling",
+                    "type": "Author"
+                }
+            ],
+            "year": null,
+            "src": "pdf/cragg review.pdf"
+        },
+        {
+            "id": 14,
+            "title": "Craggaunowen Tour Work Sheets",
+            "by": [
+                {
+                    "name": "Craggaunowen. A Division of the Hunt Museums Trust",
+                    "type": "Author"
+                }
+            ],
+            "year": null,
+            "src": "pdf/cragg tour worksheet.pdf"
+        },
+        {
+            "id": 15,
+            "title": "Vintage Television Special on the Opening of Brú Ború",
+            "by": [
+                {
+                    "name": "Comhaltas Traditional Music Archive",
+                    "type": "Author"
+                }
+            ],
+            "year": null,
+            "src": "https://www.youtube.com/embed/4Uiqokv3wsM"
+        },
+        {
+            "id": 16,
+            "title": "Anthony Bourdain having breakfast in Ireland on No Reservations",
+            "by": [
+                {
+                    "name": "Anthony Bourdain",
+                    "type": "Author"
+                }
+            ],
+            "year": null,
+            "src": "https://www.youtube.com/embed/DKnqlw3AeY0"
+        },
+        {
+            "id": 17,
+            "title": "The Future of Irish Cuisine",
+            "by": [
+                {
+                    "name": "JFK Library",
+                    "type": "Author"
+                }
+            ],
+            "year": null,
+            "src": "https://www.youtube.com/embed/u9hthycc7Os"
+        },
+        {
+            "id": 18,
+            "title": "Food On The Edge 2018 Highlights",
+            "by": [
+                {
+                    "name": "Foodontheedge",
+                    "type": "Author"
+                }
+            ],
+            "year": null,
+            "src": "https://www.youtube.com/embed/xCqcCJX0hKk"
+        },
+        {
+            "id": 19,
+            "title": "Sittin",
+            "by": [
+                {
+                    "name": "the dock of the bay",
+                    "type": "Author"
+                }
+            ],
+            "year": null,
+            "src": "https://www.youtube.com/embed/JVIhDv6S3MU"
+        },
+        {
+            "id": 20,
+            "title": "The establishment of Tuam as an archdiocesan capital in the twelfth century",
+            "by": [
+                {
+                    "name": "Dr. Griffin Murray",
+                    "type": "Author"
+                }
+            ],
+            "year": null,
+            "src": "pdf/tuam_Archdiocese.pdf"
+        },
+        {
+            "id": 21,
+            "title": "Sello - As Gaeilge (Music Video) | Pressplay",
+            "by": [
+                {
+                    "name": "Sello",
+                    "type": "Author"
+                }
+            ],
+            "year": null,
+            "src": "https://www.youtube.com/embed/JVIhDv6S3MU"
+        },
+        {
+            "id": 22,
+            "title": "Irish Fishermen Plan To Disrupt Russian Naval War Games: 'Our Presence Is Our Protest'",
+            "by": [
+                {
+                    "name": "Rachel Maddow on MSNBC",
+                    "type": "Author"
+                }
+            ],
+            "year": null,
+            "src": "https://www.youtube.com/embed/GBUKJ2V3W0E"
+        },
+        {
+            "id": 23,
+            "title": "For Irish Fishermen, Confrontation With Russia Is A Matter Of Protecting Their Livelihood",
+            "by": [
+                {
+                    "name": "The Rachel Maddow Show on MSNBC",
+                    "type": "Author"
+                }
+            ],
+            "year": null,
+            "src": "https://www.youtube.com/embed/kFewq_Sb-D0"
+        },
+        {
+            "id": 24,
+            "title": "Fishermen meet Russian ambassador over naval exercises",
+            "by": [
+                {
+                    "name": "RTÉ News",
+                    "type": "Author"
+                }
+            ],
+            "year": null,
+            "src": "https://www.youtube.com/embed/_EWWHMCDzEQ"
+        },
+        {
+            "id": 25,
+            "title": "Hero's welcome for 81-year-old after national tour",
+            "by": [
+                {
+                    "name": "RTÉ News",
+                    "type": "Author"
+                }
+            ],
+            "year": null,
+            "src": "https://www.youtube.com/embed/GHpP1HzAPDU"
+        },
+        {
+            "id": 26,
+            "title": "Languages classes in Nunavut giving people a better sense of who they are",
+            "by": [
+                {
+                    "name": "APTN News",
+                    "type": "Author"
+                }
+            ],
+            "year": null,
+            "src": "https://www.youtube.com/embed/rAzGBaBrS9s"
+        },
+        {
+            "id": 27,
+            "title": "Thousands march in Vancouver for the missing and murdered",
+            "by": [
+                {
+                    "name": "APTN News",
+                    "type": "Author"
+                }
+            ],
+            "year": null,
+            "src": "https://www.youtube.com/embed/9rwkGStFsSo"
+        },
+        {
+            "id": 28,
+            "title": "3 Elders die in Unamen Shipu following COVID-19 outbreak",
+            "by": [
+                {
+                    "name": "APTN News",
+                    "type": "Author"
+                }
+            ],
+            "year": null,
+            "src": "https://www.youtube.com/embed/IxVTqum2a8M"
+        },
+        {
+            "id": 29,
+            "title": "Potawatomi History | Tribal Histories",
+            "by": [
+                {
+                    "name": "PBS Wisconsin",
+                    "type": "Author"
+                }
+            ],
+            "year": null,
+            "src": "https://www.youtube.com/embed/ngttqI4yzJ0"
+        },
+        {
+            "id": 30,
+            "title": "Review of Elizabeth Healy's Craggaunowen and the Hunt Museum. A Recreation of Celtic Ireland",
+            "by": [
+                {
+                    "name": "Paul Gosling",
+                    "type": "Author"
+                }
+            ],
+            "year": null,
+            "src": "pdf/cragg review.pdf"
+        },
+        {
+            "id": 31,
+            "title": "Craggaunowen Tour Work Sheets",
+            "by": [
+                {
+                    "name": "Craggaunowen. A Division of the Hunt Museums Trust",
+                    "type": "Author"
+                }
+            ],
+            "year": null,
+            "src": "pdf/cragg tour worksheet.pdf"
+        },
+        {
+            "id": 32,
+            "title": "Vintage Television Special on the Opening of Brú Ború",
+            "by": [
+                {
+                    "name": "Comhaltas Traditional Music Archive",
+                    "type": "Author"
+                }
+            ],
+            "year": null,
+            "src": "https://www.youtube.com/embed/4Uiqokv3wsM"
+        },
+        {
+            "id": 33,
+            "title": "Anthony Bourdain having breakfast in Ireland on No Reservations",
+            "by": [
+                {
+                    "name": "Anthony Bourdain",
+                    "type": "Author"
+                }
+            ],
+            "year": null,
+            "src": "https://www.youtube.com/embed/DKnqlw3AeY0"
+        },
+        {
+            "id": 34,
+            "title": "The Future of Irish Cuisine",
+            "by": [
+                {
+                    "name": "JFK Library",
+                    "type": "Author"
+                }
+            ],
+            "year": null,
+            "src": "https://www.youtube.com/embed/u9hthycc7Os"
         }
     ]
 }

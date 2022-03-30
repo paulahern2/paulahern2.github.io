@@ -46,14 +46,20 @@ div p:nth-child(1){
   display: center;
   position: absolute;
   text-align: center;
-  font-family: 'Lato', sans-serif;
-  font-size: 1vw;
+  font-family: Helvetica, sans-serif;
   align-items: center;
   justify-content: center;
   padding: 3vh;
   z-index: 1;
   cursor:pointer;
   background: transparent;
+  font-weight: 400;
+  font-size: 1.5rem;
+  font-style: normal;
+  border: 1px #FF883E solid;
+  color: black;
+  border-radius: 0px;
+  padding: 2px;
 }
 
 
@@ -96,7 +102,7 @@ main {
 #masterlist a:visited {
   width: 70%;
   text-decoration: none;
-  color: rgb(0, 0, 200);
+  color: blue;
 }
 
 #masterlist a:active {
@@ -148,7 +154,7 @@ h1 {
 }
 
 em {
-  font-family: sans-serif;
+  font-family: Helvetica, sans-serif;
   font-weight: 400;
   font-size: 2rem;
   font-style: normal;
