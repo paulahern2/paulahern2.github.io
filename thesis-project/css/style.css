@@ -58,7 +58,7 @@ div p:nth-child(1){
 #printer {
   margin: 70px 50px;
   text-align: left;
-  text-decoration: none;
+  text-decoration: underline;
   display: inline-block;
   position:absolute;
   bottom:0;
