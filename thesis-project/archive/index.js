@@ -56,21 +56,24 @@ let database =
                 {
                     "tag": "Diaspora",
                     "files": [
-                        
+                        19
                     ],
                     "children": null
                 },
                 {
                     "tag": "Festivals",
                     "files": [
-                        
+                        20,
+                        23,
+                        21,
+                        22
                     ],
                     "children": null
                 },
                 {
                     "tag": "Religion",
                     "files": [
-                        
+                        24
                     ],
                     "children": null
                 },
@@ -184,35 +187,35 @@ let database =
                 {
                     "tag": "Celtic Languages",
                     "files": [
-                        
+                        25
                     ],
                     "children": null
                 },
                 {
                     "tag": "English Language in Ireland",
                     "files": [
-                        
+                        26
                     ],
                     "children": null
                 },
                 {
                     "tag": "Gaeltachts",
                     "files": [
-                        
+                        27
                     ],
                     "children": null
                 },
                 {
                     "tag": "Gaelic Language",
                     "files": [
-                        
+                        28
                     ],
                     "children": null
                 },
                 {
                     "tag": "Language History",
                     "files": [
-                        
+                        29
                     ],
                     "children": null
                 },
@@ -227,28 +230,28 @@ let database =
                 {
                     "tag": "Climate Change",
                     "files": [
-                        
+                        41
                     ],
                     "children": null
                 },
                 {
                     "tag": "Flora",
                     "files": [
-                        
+                        40
                     ],
                     "children": null
                 },
                 {
                     "tag": "Fauna",
                     "files": [
-                        
+                        39
                     ],
                     "children": null
                 },
                 {
                     "tag": "Geography",
                     "files": [
-                        
+                        38
                     ],
                     "children": null
                 },
@@ -263,21 +266,23 @@ let database =
                 {
                     "tag": "Decolonial Politics",
                     "files": [
-                        
+                        36,
+                        37
                     ],
                     "children": null
                 },
                 {
                     "tag": "Immigration and Citizenship Laws",
                     "files": [
-                        
+                        34,
+                        35
                     ],
                     "children": null
                 },
                 {
                     "tag": "International Politics",
                     "files": [
-                        
+                        33
                     ],
                     "children": [
                         {
@@ -294,21 +299,21 @@ let database =
                 {
                     "tag": "Laws",
                     "files": [
-                        
+                        32
                     ],
                     "children": null
                 },
                 {
                     "tag": "Military",
                     "files": [
-                        
+                        31
                     ],
                     "children": null
                 },
                 {
                     "tag": "Political System",
                     "files": [
-                        
+                        30
                     ],
                     "children": null
                 },
@@ -588,7 +593,7 @@ let database =
             "title": "Vintage Television Special on the Opening of Brú Ború",
             "by": [
                 {
-                    "name": "Comhaltas Traditional Music Archive",
+                    "name": "Cartlann Ceoil Traidisiúnta an Chomhaltais (Comhaltas Traditional Music Archive)",
                     "type": "Author"
                 }
             ],
@@ -633,150 +638,282 @@ let database =
         },
         {
             "id": 19,
-            "title": "Sittin",
+            "title": "Ireland's Diaspora Strategy 2020-2025",
             "by": [
                 {
-                    "name": "the dock of the bay",
+                    "name": "Rialtas na hÉireann (Government of Ireland)",
                     "type": "Author"
                 }
             ],
             "year": null,
-            "src": "https://www.youtube.com/embed/JVIhDv6S3MU"
+            "src": "pdf/Diaspora-Strategy-2020-English.pdf"
         },
         {
             "id": 20,
-            "title": "The establishment of Tuam as an archdiocesan capital in the twelfth century",
+            "title": "Puck Fair Brochure and Event Program",
             "by": [
                 {
-                    "name": "Dr. Griffin Murray",
+                    "name": "Comhairle Contae Chiarraí (Kerry County Council)",
                     "type": "Author"
                 }
             ],
             "year": null,
-            "src": "pdf/tuam_Archdiocese.pdf"
+            "src": "pdf/Puck-Fair-brochure-2019.pdf"
         },
         {
             "id": 21,
-            "title": "Sello - As Gaeilge (Music Video) | Pressplay",
+            "title": "Cattle Fair Day at Puck Fair 2020",
             "by": [
                 {
-                    "name": "Sello",
+                    "name": "the Puck Fair",
                     "type": "Author"
                 }
             ],
             "year": null,
-            "src": "https://www.youtube.com/embed/JVIhDv6S3MU"
+            "src": "https://www.youtube.com/embed/peiCYDwwEG4"
         },
         {
             "id": 22,
-            "title": "Irish Fishermen Plan To Disrupt Russian Naval War Games: 'Our Presence Is Our Protest'",
+            "title": "The Dethronement of King Puck at Puck Fair 2020",
             "by": [
                 {
-                    "name": "Rachel Maddow on MSNBC",
+                    "name": "the Puck Fair",
                     "type": "Author"
                 }
             ],
             "year": null,
-            "src": "https://www.youtube.com/embed/GBUKJ2V3W0E"
+            "src": "https://www.youtube.com/embed/ySfvSqpIU4w"
         },
         {
             "id": 23,
-            "title": "For Irish Fishermen, Confrontation With Russia Is A Matter Of Protecting Their Livelihood",
+            "title": "The Coronation of King Puck at Puck Fair 2020",
             "by": [
                 {
-                    "name": "The Rachel Maddow Show on MSNBC",
+                    "name": "the Puck Fair",
                     "type": "Author"
                 }
             ],
             "year": null,
-            "src": "https://www.youtube.com/embed/kFewq_Sb-D0"
+            "src": "https://www.youtube.com/embed/jwklVwb5PvU"
         },
         {
             "id": 24,
-            "title": "Fishermen meet Russian ambassador over naval exercises",
+            "title": "Religion and the Secular State in Ireland",
             "by": [
                 {
-                    "name": "RTÉ News",
+                    "name": "Carmen Garcimartín",
                     "type": "Author"
                 }
             ],
             "year": null,
-            "src": "https://www.youtube.com/embed/_EWWHMCDzEQ"
+            "src": "pdf/Ireland.pdf"
         },
         {
             "id": 25,
-            "title": "Hero's welcome for 81-year-old after national tour",
+            "title": "The Celtic Languages, 2nd edition (800 pages)",
             "by": [
                 {
-                    "name": "RTÉ News",
+                    "name": "Martin J. Ball and Nicole Müller",
                     "type": "Author"
                 }
             ],
             "year": null,
-            "src": "https://www.youtube.com/embed/GHpP1HzAPDU"
+            "src": "pdf/Ball, Müller. The Celtic Languages, 2nd Edition 2009.pdf"
         },
         {
             "id": 26,
-            "title": "Languages classes in Nunavut giving people a better sense of who they are",
+            "title": "PDF from James Joyce Exhibit at Ovidius University of Constanța",
             "by": [
                 {
-                    "name": "APTN News",
+                    "name": "An Roinn Gnóthaí Eachtracha (Department of Foreign Affairs)",
                     "type": "Author"
                 }
             ],
             "year": null,
-            "src": "https://www.youtube.com/embed/rAzGBaBrS9s"
+            "src": "pdf/joyce-panel.pdf"
         },
         {
             "id": 27,
-            "title": "Thousands march in Vancouver for the missing and murdered",
+            "title": "Resuscitation of the Irish Gaeltacht from Geographical Review Vol. 64, No. 1 (Jan., 1974)",
             "by": [
                 {
-                    "name": "APTN News",
+                    "name": "Kevin C. Kearns",
                     "type": "Author"
                 }
             ],
             "year": null,
-            "src": "https://www.youtube.com/embed/9rwkGStFsSo"
+            "src": "pdf/resuscitation_gaeltacht.pdf"
         },
         {
             "id": 28,
-            "title": "3 Elders die in Unamen Shipu following COVID-19 outbreak",
+            "title": "The Irish Language: Your Key to Gaelic Ireland",
             "by": [
                 {
-                    "name": "APTN News",
+                    "name": "Audrey Nickel for Bitesize Irish Gaelic Ltd.",
                     "type": "Author"
                 }
             ],
             "year": null,
-            "src": "https://www.youtube.com/embed/IxVTqum2a8M"
+            "src": "pdf/irish-language-key-to-gaelic-ireland.pdf"
         },
         {
             "id": 29,
-            "title": "Potawatomi History | Tribal Histories",
+            "title": "The Languages of Ireland: An Integrated View",
             "by": [
                 {
-                    "name": "PBS Wisconsin",
+                    "name": "Raymond Hickey",
                     "type": "Author"
                 }
             ],
             "year": null,
-            "src": "https://www.youtube.com/embed/ngttqI4yzJ0"
+            "src": "pdf/Languages_of_Ireland_(Hickey).pdf"
         },
         {
             "id": 30,
-            "title": "Review of Elizabeth Healy's Craggaunowen and the Hunt Museum. A Recreation of Celtic Ireland",
+            "title": "Ireland in Brief",
             "by": [
                 {
-                    "name": "Paul Gosling",
+                    "name": "An Roinn Gnóthaí Eachtracha (Department of Foreign Affairs)",
                     "type": "Author"
                 }
             ],
             "year": null,
-            "src": "pdf/cragg review.pdf"
+            "src": "pdf/2013-ireland-in-brief.pdf"
         },
         {
             "id": 31,
+            "title": "The Irish Defense Forces: Options For Future Humanitarian Operations",
+            "by": [
+                {
+                    "name": "John Durnin, Comdt., Irish Army",
+                    "type": "Author"
+                }
+            ],
+            "year": null,
+            "src": "pdf/ADA406625.pdf"
+        },
+        {
+            "id": 32,
+            "title": "The Lost Legal System: Pre-Common Law Ireland and the Brehon Law",
+            "by": [
+                {
+                    "name": "Dr. Noelle Higgins",
+                    "type": "Author"
+                }
+            ],
+            "year": null,
+            "src": "pdf/NH-Brehon-Law.pdf"
+        },
+        {
+            "id": 33,
+            "title": "Ireland 's 50 year membership of the European Union",
+            "by": [
+                {
+                    "name": "An Roinn Gnóthaí Eachtracha (Department of Foreign Affairs)",
+                    "type": "Author"
+                }
+            ],
+            "year": null,
+            "src": "https://www.youtube.com/embed/QLT9xce3JKY"
+        },
+        {
+            "id": 34,
+            "title": "Categories of State Control: Asylum Seekers and the Direct Provision and Dispersal System in Ireland",
+            "by": [
+                {
+                    "name": "Steven Loyal and Stephen Quilley",
+                    "type": "Author"
+                }
+            ],
+            "year": null,
+            "src": "pdf/26380314.pdf"
+        },
+        {
+            "id": 35,
+            "title": "Irish election: the view from asylum seekers caught in Ireland's direct provision",
+            "by": [
+                {
+                    "name": "euronews",
+                    "type": "Author"
+                }
+            ],
+            "year": null,
+            "src": "https://www.youtube.com/embed/goZCCdEmzyc"
+        },
+        {
+            "id": 36,
+            "title": "Decolonizing the Mind: Language and Literature in Ireland",
+            "by": [
+                {
+                    "name": "Gearóid Denvir",
+                    "type": "Author"
+                }
+            ],
+            "year": null,
+            "src": "pdf/20557369.pdf"
+        },
+        {
+            "id": 37,
+            "title": "Decolonizing the Irish: The International Resistance and Entrenchment of the Global Irish Diaspora",
+            "by": [
+                {
+                    "name": "Aedan Alderson",
+                    "type": "Author"
+                }
+            ],
+            "year": null,
+            "src": "pdf/7363-Article Text-7240-1-1-20190718.pdf"
+        },
+        {
+            "id": 38,
+            "title": "The Geography of Hurling",
+            "by": [
+                {
+                    "name": "Kevin Whelan",
+                    "type": "Author"
+                }
+            ],
+            "year": null,
+            "src": "pdf/27724044.pdf"
+        },
+        {
+            "id": 39,
+            "title": "From Mice to Mammoths: Dating Ireland's Earliest Faunas",
+            "by": [
+                {
+                    "name": "Peter C. Woodman and Nigel Monaghan",
+                    "type": "Author"
+                }
+            ],
+            "year": null,
+            "src": "pdf/20558505.pdf"
+        },
+        {
+            "id": 40,
+            "title": "Thirty Years A-Growing: Environmental Archaeology In Ireland",
+            "by": [
+                {
+                    "name": "Meriel McClatchie",
+                    "type": "Author"
+                }
+            ],
+            "year": null,
+            "src": "pdf/90014385.pdf"
+        },
+        {
+            "id": 41,
+            "title": "EPA Research Report 386 for Ireland",
+            "by": [
+                {
+                    "name": " MaREI, University College Cork: Walther C.A., Cámaro García, Ned Dwyer and Jeremy Gault",
+                    "type": "Author"
+                }
+            ],
+            "year": null,
+            "src": "pdf/Research_Report_386.pdf"
+        },
+        {
+            "id": 14,
             "title": "Craggaunowen Tour Work Sheets",
             "by": [
                 {
@@ -788,11 +925,11 @@ let database =
             "src": "pdf/cragg tour worksheet.pdf"
         },
         {
-            "id": 32,
+            "id": 15,
             "title": "Vintage Television Special on the Opening of Brú Ború",
             "by": [
                 {
-                    "name": "Comhaltas Traditional Music Archive",
+                    "name": "Cartlann Ceoil Traidisiúnta an Chomhaltais (Comhaltas Traditional Music Archive)",
                     "type": "Author"
                 }
             ],
@@ -800,7 +937,7 @@ let database =
             "src": "https://www.youtube.com/embed/4Uiqokv3wsM"
         },
         {
-            "id": 33,
+            "id": 16,
             "title": "Anthony Bourdain having breakfast in Ireland on No Reservations",
             "by": [
                 {
@@ -812,7 +949,7 @@ let database =
             "src": "https://www.youtube.com/embed/DKnqlw3AeY0"
         },
         {
-            "id": 34,
+            "id": 17,
             "title": "The Future of Irish Cuisine",
             "by": [
                 {
@@ -822,6 +959,210 @@ let database =
             ],
             "year": null,
             "src": "https://www.youtube.com/embed/u9hthycc7Os"
+        },
+        {
+            "id": 18,
+            "title": "Food On The Edge 2018 Highlights",
+            "by": [
+                {
+                    "name": "Foodontheedge",
+                    "type": "Author"
+                }
+            ],
+            "year": null,
+            "src": "https://www.youtube.com/embed/xCqcCJX0hKk"
+        },
+        {
+            "id": 19,
+            "title": "Ireland's Diaspora Strategy 2020-2025",
+            "by": [
+                {
+                    "name": "Rialtas na hÉireann (Government of Ireland)",
+                    "type": "Author"
+                }
+            ],
+            "year": null,
+            "src": "pdf/Diaspora-Strategy-2020-English.pdf"
+        },
+        {
+            "id": 20,
+            "title": "Puck Fair Brochure and Event Program",
+            "by": [
+                {
+                    "name": "Comhairle Contae Chiarraí (Kerry County Council)",
+                    "type": "Author"
+                }
+            ],
+            "year": null,
+            "src": "pdf/Puck-Fair-brochure-2019.pdf"
+        },
+        {
+            "id": 21,
+            "title": "Cattle Fair Day at Puck Fair 2020",
+            "by": [
+                {
+                    "name": "the Puck Fair",
+                    "type": "Author"
+                }
+            ],
+            "year": null,
+            "src": "https://www.youtube.com/embed/peiCYDwwEG4"
+        },
+        {
+            "id": 22,
+            "title": "The Dethronement of King Puck at Puck Fair 2020",
+            "by": [
+                {
+                    "name": "the Puck Fair",
+                    "type": "Author"
+                }
+            ],
+            "year": null,
+            "src": "https://www.youtube.com/embed/ySfvSqpIU4w"
+        },
+        {
+            "id": 23,
+            "title": "The Coronation of King Puck at Puck Fair 2020",
+            "by": [
+                {
+                    "name": "the Puck Fair",
+                    "type": "Author"
+                }
+            ],
+            "year": null,
+            "src": "https://www.youtube.com/embed/jwklVwb5PvU"
+        },
+        {
+            "id": 24,
+            "title": "Religion and the Secular State in Ireland",
+            "by": [
+                {
+                    "name": "Carmen Garcimartín",
+                    "type": "Author"
+                }
+            ],
+            "year": null,
+            "src": "pdf/Ireland.pdf"
+        },
+        {
+            "id": 25,
+            "title": "The Celtic Languages, 2nd edition (800 pages)",
+            "by": [
+                {
+                    "name": "Martin J. Ball and Nicole Müller",
+                    "type": "Author"
+                }
+            ],
+            "year": null,
+            "src": "pdf/Ball, Müller. The Celtic Languages, 2nd Edition 2009.pdf"
+        },
+        {
+            "id": 26,
+            "title": "PDF from James Joyce Exhibit at Ovidius University of Constanța",
+            "by": [
+                {
+                    "name": "An Roinn Gnóthaí Eachtracha (Department of Foreign Affairs)",
+                    "type": "Author"
+                }
+            ],
+            "year": null,
+            "src": "pdf/joyce-panel.pdf"
+        },
+        {
+            "id": 27,
+            "title": "Resuscitation of the Irish Gaeltacht from Geographical Review Vol. 64, No. 1 (Jan., 1974)",
+            "by": [
+                {
+                    "name": "Kevin C. Kearns",
+                    "type": "Author"
+                }
+            ],
+            "year": null,
+            "src": "pdf/resuscitation_gaeltacht.pdf"
+        },
+        {
+            "id": 28,
+            "title": "The Irish Language: Your Key to Gaelic Ireland",
+            "by": [
+                {
+                    "name": "Audrey Nickel for Bitesize Irish Gaelic Ltd.",
+                    "type": "Author"
+                }
+            ],
+            "year": null,
+            "src": "pdf/irish-language-key-to-gaelic-ireland.pdf"
+        },
+        {
+            "id": 29,
+            "title": "The Languages of Ireland: An Integrated View",
+            "by": [
+                {
+                    "name": "Raymond Hickey",
+                    "type": "Author"
+                }
+            ],
+            "year": null,
+            "src": "pdf/Languages_of_Ireland_(Hickey).pdf"
+        },
+        {
+            "id": 30,
+            "title": "Ireland in Brief",
+            "by": [
+                {
+                    "name": "An Roinn Gnóthaí Eachtracha (Department of Foreign Affairs)",
+                    "type": "Author"
+                }
+            ],
+            "year": null,
+            "src": "pdf/2013-ireland-in-brief.pdf"
+        },
+        {
+            "id": 31,
+            "title": "The Irish Defense Forces: Options For Future Humanitarian Operations",
+            "by": [
+                {
+                    "name": "John Durnin, Comdt., Irish Army",
+                    "type": "Author"
+                }
+            ],
+            "year": null,
+            "src": "pdf/ADA406625.pdf"
+        },
+        {
+            "id": 32,
+            "title": "The Lost Legal System: Pre-Common Law Ireland and the Brehon Law",
+            "by": [
+                {
+                    "name": "Dr. Noelle Higgins",
+                    "type": "Author"
+                }
+            ],
+            "year": null,
+            "src": "pdf/NH-Brehon-Law.pdf"
+        },
+        {
+            "id": 33,
+            "title": "Ireland 's 50 year membership of the European Union",
+            "by": [
+                {
+                    "name": "An Roinn Gnóthaí Eachtracha (Department of Foreign Affairs)",
+                    "type": "Author"
+                }
+            ],
+            "year": null,
+            "src": "https://www.youtube.com/embed/QLT9xce3JKY"
+        },
+        {
+            "id": 34,
+            "title": "Categories of State Control: Asylum Seekers and the Direct Provision and Dispersal System in Ireland",
+            "by": [
+                {
+                    "name": "Steven Loyal and Stephen Quilley",
+                    "type": "Author"
+                }
+            ],
+            "year": null,
+            "src": "pdf/26380314.pdf"
         }
     ]
 }
