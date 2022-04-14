@@ -47,7 +47,6 @@ let database =
                 {
                     "tag": "Cuisine",
                     "files": [
-                        16,
                         17,
                         18
                     ],
