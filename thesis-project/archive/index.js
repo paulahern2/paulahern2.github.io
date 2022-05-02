@@ -1,6 +1,75 @@
 let database =
 {
     "tagList": [
+            {
+            "tag": "Politics",
+            "files": [
+                
+            ],
+            "children": [
+                {
+                    "tag": "Decolonial Politics",
+                    "files": [
+                        36,
+                        37
+                    ],
+                    "children": null
+                },
+                {
+                    "tag": "Immigration and Citizenship Laws",
+                    "files": [
+                        34,
+                        35
+                    ],
+                    "children": null
+                },
+                {
+                    "tag": "International Politics",
+                    "files": [
+                        33
+                    ],
+                    "children": [
+                        {
+                            "tag": "Russian Naval Drill in Irish EEZ 2022",
+                            "files": [
+                                5,
+                                6,
+                                7
+                            ],
+                            "children": null
+                        }                
+                    ]
+                },
+                {
+                    "tag": "Laws",
+                    "files": [
+                        32
+                    ],
+                    "children": null
+                },
+                {
+                    "tag": "Military",
+                    "files": [
+                        31
+                    ],
+                    "children": null
+                },
+                {
+                    "tag": "Political System",
+                    "files": [
+                        30
+                    ],
+                    "children": null
+                },
+                {
+                    "tag": "Partisan Politics",
+                    "files": [
+                        
+                    ],
+                    "children": null
+                },
+            ]
+        },    
         {
             "tag": "Arts",
             "files": [
@@ -10,7 +79,7 @@ let database =
                 {
                     "tag": "Ancient Art",
                     "files": [
-                        3,
+                        
                     ],
                     "children": null
                 },
@@ -251,75 +320,6 @@ let database =
                     "tag": "Geography",
                     "files": [
                         38
-                    ],
-                    "children": null
-                },
-            ]
-        },
-        {
-            "tag": "Politics",
-            "files": [
-                
-            ],
-            "children": [
-                {
-                    "tag": "Decolonial Politics",
-                    "files": [
-                        36,
-                        37
-                    ],
-                    "children": null
-                },
-                {
-                    "tag": "Immigration and Citizenship Laws",
-                    "files": [
-                        34,
-                        35
-                    ],
-                    "children": null
-                },
-                {
-                    "tag": "International Politics",
-                    "files": [
-                        33
-                    ],
-                    "children": [
-                        {
-                            "tag": "Russian Naval Drill in Irish EEZ 2022",
-                            "files": [
-                                5,
-                                6,
-                                7
-                            ],
-                            "children": null
-                        }                
-                    ]
-                },
-                {
-                    "tag": "Laws",
-                    "files": [
-                        32
-                    ],
-                    "children": null
-                },
-                {
-                    "tag": "Military",
-                    "files": [
-                        31
-                    ],
-                    "children": null
-                },
-                {
-                    "tag": "Political System",
-                    "files": [
-                        30
-                    ],
-                    "children": null
-                },
-                {
-                    "tag": "Partisan Politics",
-                    "files": [
-                        
                     ],
                     "children": null
                 },
