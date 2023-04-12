@@ -86,3 +86,17 @@ a:active {
   font-size: 2.25vw;
   font-family: 'Press Start 2P';
 }
+
+#goback {
+  display: center;
+  position: absolute;
+  text-align: center;
+  font-family: 'Lato', sans-serif;
+  font-size: 1vw;
+  align-items: center;
+  justify-content: center;
+  padding: 2vh;
+  z-index: 1;
+  cursor:pointer;
+  background: transparent;
+}

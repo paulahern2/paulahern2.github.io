@@ -79,7 +79,7 @@ let database =
                 {
                     "tag": "Ancient Art",
                     "files": [
-                        42
+
                     ],
                     "children": null
                 },
@@ -161,9 +161,86 @@ let database =
             ],
             "children": [
                 {
+                    "tag": "Ancient History",
+                    "files": [
+
+                    ],
+                    "children": null
+                },
+                {
                     "tag": "Archaeology",
                     "files": [
                         3
+                    ],
+                    "children": null
+                },
+                {
+                    "tag": "Celtic History (Roman era)",
+                    "files": [
+
+                    ],
+                    "children": null
+                },
+                {
+                    "tag": "Celtic History (medieval era)",
+                    "files": [
+
+                    ],
+                    "children": null
+                },
+                {
+                    "tag": "Celtic Revival",
+                    "files": [
+
+                    ],
+                    "children": null
+                },
+                {
+                    "tag": "History of Diaspora",
+                    "files": [
+
+                    ],
+                    "children": null
+                },
+                {
+                    "tag": "English Colonization",
+                    "files": [
+
+                    ],
+                    "children": null
+                },
+                {
+                    "tag": "Famine/Genocide Under English Occupation",
+                    "files": [
+
+                    ],
+                    "children": null
+                },
+                {
+                    "tag": "History of the Irish Republic",
+                    "files": [
+
+                    ],
+                    "children": null
+                },
+                {
+                    "tag": "Northern Ireland",
+                    "files": [
+
+                    ],
+                    "children": null
+                },
+                {
+                    "tag": "Religious History",
+                    "files": [
+
+                    ],
+                    "children": null
+                },
+                {
+                    "tag": "The Troubles",
+                    "files": [
+
                     ],
                     "children": null
                 },
@@ -255,6 +332,27 @@ let database =
             ],
             "children": [
                 {
+                    "tag": "Education",
+                    "files": [
+
+                    ],
+                    "children": null
+                },
+                {
+                    "tag": "Public Opinion",
+                    "files": [
+
+                    ],
+                    "children": null
+                },
+                {
+                    "tag": "Trends",
+                    "files": [
+
+                    ],
+                    "children": null
+                },
+                {
                     "tag": "Stories",
                     "files": [
                         8
@@ -285,6 +383,13 @@ let database =
                     "children": null
                 },
                 {
+                    "tag": "Cultural Preservation",
+                    "files": [
+
+                    ],
+                    "children": null
+                },
+                {
                     "tag": "Land Back",
                     "files": [
                         8
@@ -294,9 +399,9 @@ let database =
             ]
         },
         {
-            "tag": "My Reflections",
+            "tag": "My Reflections - by Paul Ahern II",
             "files": [
-                      43
+
             ],
             "children": null
         },
@@ -805,30 +910,6 @@ let database =
             ],
             "year": null,
             "src": "pdf/Research_Report_386.pdf"
-        },
-        {
-            "id": 42,
-            "title": "Guide to the National Museum of Ireland: Archaeology",
-            "by": [
-                {
-                    "name": "Ard-Mhúsaem na hÉireann (The National Museum of Ireland)",
-                    "type": "Author"
-                }
-            ],
-            "year": null,
-            "src": "pdf/nationalmuseumofirelandart.pdf"
-        },
-        {
-            "id": 43,
-            "title": "Thesis Reflections",
-            "by": [
-                {
-                    "name": "Paul Ahern II",
-                    "type": "Author"
-                }
-            ],
-            "year": null,
-            "src": "pdf/thesis-reflections.pdf"
         },
         {
             "id": 14,
