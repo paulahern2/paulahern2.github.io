@@ -61,6 +61,13 @@ let database =
                     ],
                     "children": null
                 },
+                {
+                    "tag": "Partisan Politics",
+                    "files": [
+
+                    ],
+                    "children": null
+                },
             ]
         },
         {
